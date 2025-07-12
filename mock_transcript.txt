@@ -1,0 +1,61 @@
+Meeting Title: Q3 Product Strategy Sync
+Date: July 11, 2025
+Time: 10:00 AM – 11:00 AM
+Participants:
+
+Alex (Product Manager)
+
+Jordan (Engineering Lead)
+
+Sam (Marketing Lead)
+
+Priya (UX Designer)
+
+[10:00 AM] Alex:
+Alright, let’s get started. Thanks everyone for joining. Today’s goal is to align on our Q3 product strategy and finalize the roadmap.
+
+[10:01 AM] Jordan:
+Sounds good. I’ll kick off with engineering. We’ve completed 80% of the API overhaul. We’re still on track to finish the final integration tests by July 25.
+
+[10:03 AM] Priya:
+That’s great. From the design side, we’ve wrapped up the mockups for the new onboarding flow. I’ll share the Figma link in Slack after the meeting.
+
+[10:04 AM] Alex:
+Awesome. Let’s make sure we schedule a usability test round for those new flows next week.
+
+[10:05 AM] Sam:
+On the marketing front, we’re prepping the landing page revamp. We’re aiming to A/B test copy for three positioning angles. We’ll need early access to the final onboarding flow by August 1.
+
+[10:07 AM] Jordan:
+Noted. We can expose a feature flag by then so marketing can test without waiting for the full release.
+
+[10:08 AM] Alex:
+Perfect. Let’s also remember to sync with customer success on any changes that could impact onboarding metrics. Anything else?
+
+[10:09 AM] Priya:
+One quick thing — can we consider adding a progress bar during onboarding? Some test users said they felt a bit lost without one.
+
+[10:10 AM] Alex:
+Good idea. Jordan, can you estimate the effort for that?
+
+[10:11 AM] Jordan:
+Probably half a day to a day of work. We can slot that in if it's prioritized.
+
+[10:12 AM] Alex:
+Let’s do it. Better onboarding is a big bet for Q3.
+
+📌 Action Items:
+
+ Jordan to finish API tests by July 25
+
+ Priya to share onboarding Figma link in Slack
+
+ Sam to prepare A/B test copy for new landing page
+
+ Usability testing for onboarding to be scheduled next week
+
+ Engineering to implement onboarding progress bar
+
+Next Meeting:
+Date: July 18, 2025
+Focus: Launch Readiness Review
